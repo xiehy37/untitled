@@ -7,3 +7,4 @@ print(torch.backends.cudnn.version())
 print(torch.__version__)
 
 # 测试pull to Pycharm
+# 测试push
